@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ДДС Калкулатор</string>
+    <string name="calculate_text">Изчисли</string>
+    <string name="priceDDS_button">Цена с ДДС</string>
+    <string name="Price_Button">Цена без ДДС</string>
+    <string name="calculate_button1">Изчисли</string>
+    <string name="calculate_button2">Изчисли</string>
+    <string name="DDS_text">ДДС:</string>
+    <string name="PriceDDS_text">Цена с ДДС:</string>
+    <string name="Price_text">Цена без ДДС:</string>
+    <string name="result_DDS_Tv">ДДС-Резултат</string>
+    <string name="result_Price_Tv">Цена-Резултат</string>
+    <string name="result_OnlyPrice_Tv">Цена без ДДС-Резултат</string>
+    <string name="back_Home">Към менюто</string>
+    <string name="details_DDS">Детайли</string>
+    <string name="details_price">Детайли</string>
+    <string name="history_Tv">История</string>
+</resources>
